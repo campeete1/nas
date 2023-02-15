@@ -1,7 +1,7 @@
 :root {
     --bg-color: white;
     --typewriterSpeed: 5s;
-    --typewriterCharacters: 118;
+    --typewriterCharacters: 53;
   }  
   p {
     position: relative;
