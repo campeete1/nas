@@ -24,6 +24,7 @@
 }
 .main-btn:hover{
     background-color: #2A5074;
+    color: white;
 }
 .nas-btn{
     border: 2px solid #2A5074;
